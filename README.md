@@ -1,2 +1,3 @@
-# android.com-kitkat
-Android is the operating system that powers over 1 billion smartphones and tablets.
+# Android KitKat
+Android is the operating system that powers over 1 billion smartphones and tablets. Since these devices make our lives so sweet, each Android version is named after a dessert: Cupcake, Donut, Eclair, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, and Jelly Bean. As everyone finds chocolate so tempting, we decided to name the next version of Android after one of our favorite chocolate treats, Kit Kat!
+To make this release even sweeter, Kit Kat is giving you the chance to win a Nexus 7 or Google Play credit. Just look for specially branded Kit Kat candy bars featuring the Android robot in a store near you.
